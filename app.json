@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FifthProject",
+    "slug": "FifthProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "FifthProject"
+}
